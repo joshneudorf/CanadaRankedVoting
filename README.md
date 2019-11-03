@@ -4,7 +4,7 @@ This is a projection of what election results in Canada would look like if a ran
 The number of seats was calculated using election data from Elections Canada (https://elections.ca), making the assumption that NDP, Green Party, and Liberal voters would rank one another higher than the Conservatives, Bloc, or smaller right-wing parties. Likewise the assumption was made that the Conservatives, Bloc, and smaller right-wing party voters would rank one another higher than the left-wing parties. Including the Bloc in this group was a decision made to be biased towards Conservative votes, although predicting how individual Bloc supporters would rank is not possible.
 
 ## Results
-Over the last 6 elections there would have been 5 Liberal governments (4 majority and 1 minority in 2008) and 1 NDP minority government in 2008. On average the Conservatives took 54 seats (45% of their seats) in the current FPTP system due to split votes between the NDP, Green, and Liberal voters (the combined votes for NDP, Green, and Liberal voters were greater than the number of Conservative/right-wing voters, but the Conservatives took the seat).
+Over the last 6 elections there would have been 5 Liberal governments (4 majority and 1 minority in 2008) and 1 NDP minority government in 2011. On average the Conservatives took 54 seats (45% of their seats) in the current FPTP system due to split votes between the NDP, Green, and Liberal voters (the combined votes for NDP, Green, and Liberal voters were greater than the number of Conservative/right-wing voters, but the Conservatives took the seat).
 
 <table>
 <tr>
